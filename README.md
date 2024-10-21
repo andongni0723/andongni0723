@@ -2,7 +2,7 @@
 
 # Andongni0723
 
-A student from Taiwan, 
+A student 
 want to be a game maker and programmer. 
 
 
